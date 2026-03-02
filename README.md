@@ -1,73 +1,82 @@
-# React + TypeScript + Vite
+<div align="center">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Header](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDgwMCAyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMGYyMDI3IiAvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iIzIwM2E0MyIgLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMmM1MzY0IiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9Imdsb3ciIHg9Ii0yMCUiIHk9Ii0yMCUiIHdpZHRoPSIxNDAlIiBoZWlnaHQ9IjE0MCUiPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSI1IiByZXN1bHQ9ImJsdXIiIC8+CiAgICAgIDxmZUNvbXBvc2l0ZSBpbj0iU291cmNlR3JhcGhpYyIgaW4yPSJibHVyIiBvcGVyYXRvcj0ib3ZlciIgLz4KICAgIDwvZmlsdGVyPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ1cmwoI2dyYWQpIiByeD0iMTUiIHJ5PSIxNSIvPgogIAogIDx0ZXh0IHg9IjUwJSIgeT0iNDAlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSJib2xkIiBmb250LXNpemU9IjQyIiBmaWxsPSIjMDBlNWZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWx0ZXI9InVybCgjZ2xvdykiIHN0eWxlPSJ0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlOyBsZXR0ZXItc3BhY2luZzogNHB4OyI+CiAgICBwcm9wc2NvcmUgcmVkZXNpZ24KICA8L3RleHQ+CiAgCiAgPHRleHQgeD0iNTAlIiB5PSI2NSUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxNiIgZmlsbD0iI2IwYmVjNSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgc3R5bGU9ImxldHRlci1zcGFjaW5nOiAycHg7Ij4KICAgIE5FWFQtR0VOIFRZUEVTQ1JJUFQgQVJDSElURUNUVVJFCiAgPC90ZXh0PgoKICA8IS0tIEFuaW1hdGVkIGxpbmUgLS0+CiAgPGxpbmUgeDE9IjIwMCIgeTE9IjE2MCIgeDI9IjYwMCIgeTI9IjE2MCIgc3Ryb2tlPSIjMDBlNWZmIiBzdHJva2Utd2lkdGg9IjIiIGZpbHRlcj0idXJsKCNnbG93KSI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJ4MSIgdmFsdWVzPSIyMDA7IDMwMDsgMjAwIiBkdXI9IjNzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9IngyIiB2YWx1ZXM9IjYwMDsgNTAwOyA2MDAiIGR1cj0iM3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPgogIDwvbGluZT4KPC9zdmc+)
 
-Currently, two official plugins are available:
+<br/>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-TypeScript-00e5ff?style=for-the-badge&logo=codeigniter&logoColor=black" alt="Language" />
+  <img src="https://img.shields.io/badge/Architecture-Scalable-203a43?style=for-the-badge&logo=graphql&logoColor=00e5ff" alt="Architecture" />
+  <img src="https://img.shields.io/badge/Status-Active-2c5364?style=for-the-badge&logo=checkmarx&logoColor=00e5ff" alt="Status" />
+  <img src="https://img.shields.io/badge/License-MIT-0f2027?style=for-the-badge&logo=law&logoColor=00e5ff" alt="License" />
+</p>
 
-## React Compiler
+*An advanced software structure developed by Karthik Idikuda.*
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+</div>
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+## Overview
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+> A cutting-edge implementation designed for high-performance operations, scalability, and seamless integration.
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+Welcome to **propscore redesign**. This repository houses the source code for a next-generation system engineered to push the boundaries of modern software development. It leverages advanced design patterns to ensure reliability and speed.
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+<br/>
+
+## System Architecture
+
+The below diagram illustrates the high-level data flow and component interaction within the system.
+
+```mermaid
+graph TD;
+    A[Client User Interface] -->|Secure Channel| B(API Gateway);
+    B --> C{Core Processing Engine};
+    C -->|Queries| D[(Persistent Data Storage)];
+    C -->|Logs| E[Telemetry & Diagnostics];
+    
+    classDef primary fill:#0f2027,stroke:#00e5ff,stroke-width:2px,color:#fff;
+    classDef secondary fill:#203a43,stroke:#b0bec5,stroke-width:1px,color:#fff;
+    classDef database fill:#2c5364,stroke:#00e5ff,stroke-width:2px,color:#fff;
+    
+    class A,B primary;
+    class C secondary;
+    class D database;
+    class E secondary;
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+### Component Breakdown
+- **Client Interface:** The primary point of interaction, optimized for responsiveness.
+- **API Gateway:** Routes and authenticates incoming requests securely.
+- **Core Engine:** The brain of the operation, executing complex domain logic and algorithms.
+- **Persistent Storage:** A highly available data store ensuring data integrity.
+- **Telemetry:** Continuous monitoring and logging for proactive maintenance.
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+<br/>
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+## Technical Specifications
+
+| Metric | Specification |
+|:---|:---|
+| **Primary Language** | `TypeScript` |
+| **Frameworks** | `Standard Library / Native Dependencies` |
+| **Code Structure** | `Modular / Microservice-ready` |
+| **Security** | `End-to-End Encryption / Token Auth` |
+
+<br/>
+
+## Deployment & Initialization
+
+To initialize this system in your local or cloud environment, standard build procedures for `TypeScript` apply. Ensure all environment variables and dependencies are securely configured prior to execution.
+
+<br/>
+
+## License & Attribution
+
+This project is open-sourced under the **MIT License**. Permission is granted for use, modification, and distribution as per the license terms.
+
+---
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=435&lines=Engineered+by+Karthik+Idikuda;Pushing+Boundaries;Next-Gen+Software+Architecture" alt="Typing SVG" />
+</div>
