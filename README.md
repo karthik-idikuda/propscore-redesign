@@ -1,19 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=56d364&height=220&section=header&text=propscore%20redesign&fontSize=42&fontAlignY=35&desc=Machine%20Learning%20/%20AI&descAlignY=55&fontColor=ffffff" alt="Header"/>
+![Header](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDgwMCAyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzBmMjAyNyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iIzIwM2E0MyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMyYzUzNjQiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8ZmlsdGVyIGlkPSJnbG93Ij4KICAgICAgPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iNCIgcmVzdWx0PSJiIi8+CiAgICAgIDxmZUNvbXBvc2l0ZSBpbj0iU291cmNlR3JhcGhpYyIgaW4yPSJiIiBvcGVyYXRvcj0ib3ZlciIvPgogICAgPC9maWx0ZXI+CiAgICA8ZmlsdGVyIGlkPSJnbG93MiI+CiAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjgiIHJlc3VsdD0iYiIvPgogICAgICA8ZmVDb21wb3NpdGUgaW49IlNvdXJjZUdyYXBoaWMiIGluMj0iYiIgb3BlcmF0b3I9Im92ZXIiLz4KICAgIDwvZmlsdGVyPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ1cmwoI2JnKSIgcng9IjEyIi8+CiAgCiAgPCEtLSBHcmlkIGxpbmVzIC0tPgogIDxsaW5lIHgxPSIwIiB5MT0iNTAiIHgyPSI4MDAiIHkyPSI1MCIgc3Ryb2tlPSIjMDBlNWZmIiBvcGFjaXR5PSIwLjA1IiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iMCIgeTE9IjEwMCIgeDI9IjgwMCIgeTI9IjEwMCIgc3Ryb2tlPSIjMDBlNWZmIiBvcGFjaXR5PSIwLjA1IiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iMCIgeTE9IjE1MCIgeDI9IjgwMCIgeTI9IjE1MCIgc3Ryb2tlPSIjMDBlNWZmIiBvcGFjaXR5PSIwLjA1IiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iMjAwIiB5MT0iMCIgeDI9IjIwMCIgeTI9IjIwMCIgc3Ryb2tlPSIjMDBlNWZmIiBvcGFjaXR5PSIwLjA1IiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iMCIgeDI9IjQwMCIgeTI9IjIwMCIgc3Ryb2tlPSIjMDBlNWZmIiBvcGFjaXR5PSIwLjA1IiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNjAwIiB5MT0iMCIgeDI9IjYwMCIgeTI9IjIwMCIgc3Ryb2tlPSIjMDBlNWZmIiBvcGFjaXR5PSIwLjA1IiBzdHJva2Utd2lkdGg9IjEiLz4KICAKICAKICA8Y2lyY2xlIGN4PSI2NjAiIGN5PSIzMCIgcj0iMiIgZmlsbD0iIzAwZTVmZiIgb3BhY2l0eT0iMC42Ij4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImN4IiB2YWx1ZXM9IjY2MDsgMTQwOyA2NjAiIGR1cj0iNnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjM7IDAuOTsgMC4zIiBkdXI9IjdzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz4KICA8L2NpcmNsZT4KICA8Y2lyY2xlIGN4PSI1NDAiIGN5PSI1NSIgcj0iMyIgZmlsbD0iIzAwZTVmZiIgb3BhY2l0eT0iMC42Ij4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImN4IiB2YWx1ZXM9IjU0MDsgMjYwOyA1NDAiIGR1cj0iN3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjM7IDAuOTsgMC4zIiBkdXI9IjhzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz4KICA8L2NpcmNsZT4KICA8Y2lyY2xlIGN4PSIzODAiIGN5PSI4MCIgcj0iNCIgZmlsbD0iIzAwZTVmZiIgb3BhY2l0eT0iMC42Ij4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImN4IiB2YWx1ZXM9IjM4MDsgNDIwOyAzODAiIGR1cj0iN3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjM7IDAuOTsgMC4zIiBkdXI9IjhzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz4KICA8L2NpcmNsZT4KICA8Y2lyY2xlIGN4PSIzODAiIGN5PSIxMDUiIHI9IjIiIGZpbGw9IiMwMGU1ZmYiIG9wYWNpdHk9IjAuNiI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJjeCIgdmFsdWVzPSIzODA7IDQyMDsgMzgwIiBkdXI9IjZzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMC4zOyAwLjk7IDAuMyIgZHVyPSI3cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIC8+CiAgPC9jaXJjbGU+CiAgPGNpcmNsZSBjeD0iNzAwIiBjeT0iMTMwIiByPSIzIiBmaWxsPSIjMDBlNWZmIiBvcGFjaXR5PSIwLjYiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iY3giIHZhbHVlcz0iNzAwOyAxMDA7IDcwMCIgZHVyPSI3cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIC8+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjAuMzsgMC45OyAwLjMiIGR1cj0iOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPgogIDwvY2lyY2xlPgogIDxjaXJjbGUgY3g9IjU0MCIgY3k9IjE1NSIgcj0iNCIgZmlsbD0iIzAwZTVmZiIgb3BhY2l0eT0iMC42Ij4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImN4IiB2YWx1ZXM9IjU0MDsgMjYwOyA1NDAiIGR1cj0iNXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjM7IDAuOTsgMC4zIiBkdXI9IjZzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz4KICA8L2NpcmNsZT4KICAKICA8IS0tIFNjYW5uaW5nIGxpbmUgLS0+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIzIiBmaWxsPSIjMDBlNWZmIiBvcGFjaXR5PSIwLjMiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ieSIgdmFsdWVzPSIwOyAyMDA7IDAiIGR1cj0iNnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9yZWN0PgogIAogIDx0ZXh0IHg9IjUwJSIgeT0iNDIlIiBmb250LWZhbWlseT0iQXJpYWwsc2Fucy1zZXJpZiIgZm9udC13ZWlnaHQ9ImJvbGQiIGZvbnQtc2l6ZT0iMzgiIGZpbGw9IiMwMGU1ZmYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbHRlcj0idXJsKCNnbG93KSIgc3R5bGU9ImxldHRlci1zcGFjaW5nOjRweCI+CiAgICBQUk9QU0NPUkUgUkVERVNJR04KICA8L3RleHQ+CiAgPHRleHQgeD0iNTAlIiB5PSI2MiUiIGZvbnQtZmFtaWx5PSJBcmlhbCxzYW5zLXNlcmlmIiBmb250LXNpemU9IjEzIiBmaWxsPSIjODBkZWVhIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBzdHlsZT0ibGV0dGVyLXNwYWNpbmc6M3B4O29wYWNpdHk6MC44Ij4KICAgIFBST1BSSUVUQVJZIFRZUEVTQ1JJUFQgQVJDSElURUNUVVJFCiAgPC90ZXh0PgogIAogIDwhLS0gQm90dG9tIGFjY2VudCBsaW5lIC0tPgogIDxsaW5lIHgxPSIyNTAiIHkxPSIxNzUiIHgyPSI1NTAiIHkyPSIxNzUiIHN0cm9rZT0iIzAwZTVmZiIgc3Ryb2tlLXdpZHRoPSIyIiBmaWx0ZXI9InVybCgjZ2xvdykiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ieDEiIHZhbHVlcz0iMjUwOzMwMDsyNTAiIGR1cj0iM3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJ4MiIgdmFsdWVzPSI1NTA7NTAwOzU1MCIgZHVyPSIzcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICA8L2xpbmU+Cjwvc3ZnPg==)
+
+<br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Type-Machine%20Learning%20%2F%20AI-56d364?style=for-the-badge&logo=target&logoColor=black" alt="Type" />
-  <img src="https://img.shields.io/badge/Language-TypeScript-56d364?style=for-the-badge&logo=code&logoColor=black" alt="Language" />
-  <img src="https://img.shields.io/badge/Files-33651-161b22?style=for-the-badge&logo=files&logoColor=56d364" alt="Files" />
-  <img src="https://img.shields.io/badge/License-PROPRIETARY-ff0000?style=for-the-badge&logo=shield&logoColor=white" alt="License" />
+  <img src="https://img.shields.io/badge/Machine%20Learning%20%2F%20AI-00e5ff?style=for-the-badge&logo=target&logoColor=black" alt="Type" />
+  <img src="https://img.shields.io/badge/TypeScript-00e5ff?style=for-the-badge&logo=code&logoColor=black" alt="Lang" />
+  <img src="https://img.shields.io/badge/33651%20Files-203a43?style=for-the-badge&logo=files&logoColor=00e5ff" alt="Files" />
+  <img src="https://img.shields.io/badge/PROPRIETARY-ff0000?style=for-the-badge&logo=shield&logoColor=white" alt="License" />
 </p>
 
-  <img src="https://img.shields.io/badge/Vite-161b22?style=flat-square&logo=vite&logoColor=56d364" alt="Vite" />
-  <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=56d364" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=56d364" alt="React" />
-  <img src="https://img.shields.io/badge/TailwindCSS-161b22?style=flat-square&logo=tailwindcss&logoColor=56d364" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Vite-203a43?style=flat-square&logo=vite&logoColor=00e5ff" alt="Vite" />
+  <img src="https://img.shields.io/badge/TypeScript-203a43?style=flat-square&logo=typescript&logoColor=00e5ff" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-203a43?style=flat-square&logo=react&logoColor=00e5ff" alt="React" />
+  <img src="https://img.shields.io/badge/TailwindCSS-203a43?style=flat-square&logo=tailwindcss&logoColor=00e5ff" alt="TailwindCSS" />
 
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=14&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=propscore+redesign;Machine+Learning+%2F+AI+Architecture;Proprietary+System+by+Karthik+Idikuda" alt="Typing SVG" />
 
 </div>
 
@@ -21,9 +26,9 @@
 
 ## Overview
 
-> A machine learning / ai project comprising 33651 integrated source modules, built with TypeScript.
+> A proprietary machine learning / ai system comprising 33651 integrated source modules.
 
-**propscore redesign** is a proprietary machine learning / ai system engineered by **Karthik Idikuda**. It leverages Vite, TypeScript, React, TailwindCSS for its core functionality.
+**propscore redesign** is an advanced machine learning / ai system engineered by **Karthik Idikuda**. Built with Vite, TypeScript, React, TailwindCSS.
 
 <br/>
 
@@ -31,17 +36,16 @@
 
 ```mermaid
 graph TD;
-    A["Data Acquisition Layer"] -->|Raw Input| B["Preprocessing Engine"];
-    B -->|Clean Data| D{"Neural Network Core"};
-    D -->|Inference| E["Model Training & Evaluation"];
-    E -->|Predictions| F["Output / Results"];
+    A["Raw Data Input"] -->|"Ingest"| B["Preprocessing Pipeline"];
+    B -->|"Clean Tensors"| D{"Neural Net Engine"};
+    D -->|"Training Loop"| E["Inference & Prediction"];
+    E -->|"Metrics"| F["Evaluation & Output"];
 
-    classDef ml fill:#0d1117,stroke:#ff6e96,stroke-width:2px,color:#fff;
-    classDef cv fill:#161b22,stroke:#79c0ff,stroke-width:2px,color:#fff;
-    classDef web fill:#21262d,stroke:#56d364,stroke-width:2px,color:#fff;
-    class A,B ml;
-    class D,E ml;
-    class F,G web;
+    style A fill:#0f2027,stroke:#00e5ff,stroke-width:2px,color:#fff
+    style B fill:#203a43,stroke:#00e5ff,stroke-width:1px,color:#fff
+    style D fill:#0f2027,stroke:#00e5ff,stroke-width:3px,color:#fff
+    style E fill:#203a43,stroke:#00e5ff,stroke-width:1px,color:#fff
+    style F fill:#2c5364,stroke:#00e5ff,stroke-width:2px,color:#fff
 ```
 
 <br/>
@@ -60,7 +64,6 @@ propscore-redesign/
     hero-property.jpg
     index.html
     inspectors-team.jpg
-    listing-featured.jpg
   node_modules/
     .package-lock.json
   public/
@@ -77,27 +80,32 @@ propscore-redesign/
 | **Project Category** | `Machine Learning / AI` |
 | **Total Source Files** | `33651` |
 | **Frameworks** | `Vite`, `TypeScript`, `React`, `TailwindCSS` |
-| **Key Dependencies** | `@radix-ui/react-collapsible` | `@eslint/js` | `@hookform/resolvers` | `@radix-ui/react-dropdown-menu` | `@radix-ui/react-hover-card` | `@gsap/react` | `eslint-plugin-react-hooks` | `globals` | `@radix-ui/react-aspect-ratio` | `@radix-ui/react-context-menu` | `@types/react-dom` | `@radix-ui/react-menubar` | `@radix-ui/react-avatar` | `eslint` | `@radix-ui/react-navigation-menu` |
-| **Intellectual Property** | `Strictly Proprietary` |
+| **IP Status** | `Strictly Proprietary` |
 
-<br/>
+## Dependencies
 
-## STRICT LEGAL WARNING & LICENSE
+<p align="left">
+  <code>@radix-ui/react-collapsible</code>  <code>@eslint/js</code>  <code>@hookform/resolvers</code>  <code>@radix-ui/react-dropdown-menu</code>  <code>@radix-ui/react-hover-card</code>  <code>@gsap/react</code>  <code>eslint-plugin-react-hooks</code>  <code>globals</code>  <code>@radix-ui/react-aspect-ratio</code>  <code>@radix-ui/react-context-menu</code>  <code>@types/react-dom</code>  <code>@radix-ui/react-menubar</code>  <code>@radix-ui/react-avatar</code>  <code>eslint</code>  <code>@radix-ui/react-navigation-menu</code>
+</p>
+
+
+## STRICT LEGAL WARNING
 
 > **PROPRIETARY AND CONFIDENTIAL**
 
-This software and all associated documentation are the **exclusive property of Karthik Idikuda**.
+This software is the **exclusive property of Karthik Idikuda**.
 
-- **NO PERMISSION IS GRANTED** to use, copy, modify, merge, publish, distribute, sublicense, or sell copies of this software without explicit, written consent from the author.
-- **UNAUTHORIZED USE WILL RESULT IN SEVERE LEGAL ACTION.** Any individual or organization found using, referencing, or deploying this code without paying the required licensing fees will face immediate litigation, financial penalties, and potentially criminal prosecution where applicable by law.
-- **TO OBTAIN A LEGAL LICENSE**, you must directly contact Karthik Idikuda to negotiate payment terms.
+- **NO PERMISSION** to use, copy, modify, or distribute without written consent.
+- **UNAUTHORIZED USE** results in litigation, financial penalties, and criminal prosecution.
+- **LICENSING:** Contact Karthik Idikuda directly to negotiate terms.
 
-*By accessing this repository, you acknowledge and accept these strict proprietary terms.*
+*By viewing this repository, you accept these proprietary terms.*
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=18&pause=1000&color=56D364&center=true&vCenter=true&width=535&lines=Engineered+by+Karthik+Idikuda;Machine+Learning+%2F+AI+Architecture;Strict+Proprietary+License" alt="Typing SVG" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=18&pause=1000&color=00E5FF&center=true&vCenter=true&width=535&lines=Engineered+by+Karthik+Idikuda;Strictly+Proprietary+Technology;Unauthorized+Use+Prohibited" alt="Typing SVG" />
 </div>
 
-<!-- TRACKING: S0ktcHJvcHNjb3JlLXJlZGVzaWduLVRSQUNL -->
+<!-- WATERMARK: S0ktUFJPUFJJRVRBUlktcHJvcHNjb3JlLXJlZGVzaWduLTIwMjY= -->
